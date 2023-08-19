@@ -6,10 +6,11 @@
 [![License](https://poser.pugx.org/davtur19/turibot/license)](https://packagist.org/packages/davtur19/turibot)
 
 ## Requirements
-### Stable
-PHP 7.1 or higher with curl extension
-### Beta (Async)
-PHP 8.1 or higher, you need to install amp from composer
+PHP 8.1 or higher
+
+From composer:
+amphp/http-client 5.0
+amphp/file 3.0
 
 ## Installation
 
